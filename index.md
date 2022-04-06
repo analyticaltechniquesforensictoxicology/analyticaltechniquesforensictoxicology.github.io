@@ -1,8 +1,23 @@
+A toxin is defined as “a poisonous substance, especially one produced by bacteria, that causes disease”. https://dictionary.cambridge.org/dictionary/english/toxin
 
+This is an electronic portal highlighting the effectiveness of analytical techniques in regard to their interpretation when applied to forensic toxicology. This portal covers the various analytical techniques used in the field of forensic toxicology, with a focus on the toxicological analysis of hair, for the detection of the presence of potentially illegal xenobiotics.
 
-You can use the [editor on GitHub](https://github.com/analyticaltechniquesforensictoxicology/analyticaltechniquesforensictoxicology.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Forensic toxicology is the division of science that acknowledges the application of toxicology to the field of law. This application is attained by combining techniques of analytical chemistry with existing knowledge and principles of toxicology.
+Thus, analyses can report issues related to the toxic effects of substances on humans, with relevance to legal procedures.
+Applications of forensic toxicology include:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  -	Testing for drugs of abuse
+  -	Suspected driving under the influence of drugs and/or alcohol
+  -	Testing for the presence of performance-enhancing drugs in sports
+  -	drug-facilitated crimes
+  -	Intoxication or overdose cases
+  -	Screening for drugs in the workplace
+  -	Suspected drug-related deaths
+
+Human Performance Toxicology (https://www.researchgate.net/publication/344001265_Human_Performance_Toxicology) (or behavioural toxicology) centres on the effects of drug and alcohol misuse on human behaviours and performance. This applies to investigations involving impaired driving, vehicle collisions and specific drug-facilitated crimes.
+
+### Expert Witness
+Forensic toxicological expert witnesses are required to utilise their knowledge of the effect of toxins on the body to determine the effects of drugs and alcohol on an individual.
 
 ### Markdown
 
